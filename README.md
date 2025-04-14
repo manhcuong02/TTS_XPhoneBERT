@@ -8,8 +8,8 @@ My test environment: `Python==3.10`
 ## Installation steps:
 
 ```
-git clone https://github.com/manhcuong02/VITs_XPhoneBERT_For_Vietnamese.git
-cd VITs_XPhoneBERT_For_Vietnamese
+git clone https://github.com/manhcuong02/TTS_XPhoneBERT.git
+cd TTS_XPhoneBERT
 pip install -r requirements.txt
 ```
 
